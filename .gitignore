@@ -1,1 +1,7 @@
 Docs
+pyproject.toml
+poetry.lock
+.*
+!/.gitignore
+poetry.lock
+__pycache__/
