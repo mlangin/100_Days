@@ -1,5 +1,4 @@
 Docs
-pyproject.toml
 poetry.lock
 .*
 !/.gitignore
